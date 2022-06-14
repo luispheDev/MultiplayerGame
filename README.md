@@ -1,5 +1,6 @@
 # MultiplayerGame
 Jogo Multiplayer desenvolvido para a disciplina de Redes Multiplayer da faculdade de Tecnologia em Jogos Digitais - IFBA
+Componentes do Projeto: Bruno Tiago Santos de Carvalho, David Arraz Barreto e Luis Philipe Bandeira Costa.
 
 
 Implementação da Biblioteca para Jogos Multiplayer Unity/Photon Network.
